@@ -1,0 +1,6 @@
+iancullinane.com:
+  image: eignhpants/sweetbasil.rocks:stable
+  ports:
+    - 8888:8888
+  expose:
+    - 8888
